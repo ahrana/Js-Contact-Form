@@ -1,0 +1,20 @@
+
+#cform{
+padding:10px;
+color:black;
+font-size:16px;
+}
+#send {
+	color:black;
+	font-family:'Helvetica Neue',sans-serif;
+	font-size:18px;
+	border-radius:10px;
+	width:80px;
+	height:35px
+}
+#message {
+    font-size:14px;
+	font-weight:bold;
+	color: gray;
+}
+
