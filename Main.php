@@ -1,4 +1,4 @@
-namespace ReportPE/Main;
+namespace Gkits/Main;
 
  use pocketmine\Server;
  use pocketmine\Player;
